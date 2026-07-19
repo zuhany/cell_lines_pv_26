@@ -1,0 +1,11 @@
+/.venv/
+
+/.quarto/
+**/*.quarto_ipynb
+
+/trash/
+/notebooks/base_files/
+/notebooks/base.html
+/.RData
+/.Rhistory
+/.RDataFiles/

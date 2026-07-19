@@ -1,0 +1,9 @@
+raw_data/annotation/hgnc_complete_set.txt filter=lfs diff=lfs merge=lfs -text
+raw_data/expression/CCLE_RNAseq_reads.csv filter=lfs diff=lfs merge=lfs -text
+raw_data/expression/Cell_line_RMA_proc_basalExp.txt filter=lfs diff=lfs merge=lfs -text
+raw_data/expression/sanger1018_brainarray_ensemblgene_rma.txt filter=lfs diff=lfs merge=lfs -text
+raw_data/sensitivity/CTRPv2_edited.csv filter=lfs diff=lfs merge=lfs -text
+raw_data/sensitivity/GDSC1_fitted_dose_response_27Oct23.xlsx filter=lfs diff=lfs merge=lfs -text
+raw_data/sensitivity/GDSC2_fitted_dose_response_27Oct23.xlsx filter=lfs diff=lfs merge=lfs -text
+raw_data/sensitivity/PSet_CTRPv2.rds filter=lfs diff=lfs merge=lfs -text
+raw_data/sensitivity/secondary-screen-dose-response-curve-parameters.csv filter=lfs diff=lfs merge=lfs -text

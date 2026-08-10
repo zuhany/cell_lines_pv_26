@@ -15,3 +15,4 @@ raw_data/sensitivity/glioma/Drug_sensitivity_AUC_(CTD^2)_subsetted.csv filter=lf
 raw_data/sensitivity/glioma/Drug_sensitivity_AUC_(PRISM_Repurposing_Secondary_Screen)_subsetted.csv filter=lfs diff=lfs merge=lfs -text
 raw_data/sensitivity/glioma/Drug_sensitivity_AUC_(Sanger_GDSC1)_subsetted.csv filter=lfs diff=lfs merge=lfs -text
 raw_data/sensitivity/glioma/Drug_sensitivity_AUC_(Sanger_GDSC2)_subsetted.csv filter=lfs diff=lfs merge=lfs -text
+raw_data/sensitivity/glioma/CTRPv2.2_2015_pub_CancerDisc_5_1210/** filter=lfs diff=lfs merge=lfs -text

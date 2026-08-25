@@ -3,6 +3,7 @@
 This project investigates gene expression changes associated with glioblastoma
 recurrence using paired primary and first-recurrence samples from the GLASS
 cohort.
+Documentation: notebooks/GLASS.ipynb:
 
 The analysis includes:
 
@@ -34,7 +35,10 @@ cell_lines_pv_26/
 ├── notebooks/
 ├── references/
 ├── results/
-├── scripts/
+│   ├── differential_expression/
+│   ├── GSEA/
+│   ├── qc/
+│   └── recurrence/
 ├── README.md
 ├── .gitattributes
 └── .gitignore

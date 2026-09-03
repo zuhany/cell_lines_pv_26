@@ -1,6 +1,6 @@
 Metric,Value
 GLASS filtered genes,17789
 DepMap genes,60649
-Common genes,0
-Signature UP genes,0
-Signature DOWN genes available,0
+Common genes,15121
+Signature UP genes,162
+Signature DOWN genes available,93

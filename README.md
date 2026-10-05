@@ -101,21 +101,39 @@ cell_lines_pv_26/
 ├── data/
 │   ├── raw/
 │   │   ├── annotation/
-│   │   ├── difg_glass/
-│   │   ├── expression/
-│   │   ├── sensitivity/
-│   │   └── difg_glass.tar.tar
+│   │   ├── DEPMAP/
+│   │   ├── GDSC/
+│   │   ├── GLASS/
+│   │   └── GSE186332/
 │   └── processed/
-├── documents/
+│       ├── GLASS/
+│       ├── GSE186332/
+│       └── GSEA/
 ├── figures/
 ├── notebooks/
+│   ├── archive/
+│   └── current/
+│       └── GLASS.ipynb
 ├── references/
 ├── results/
+│   ├── cell_line_annotation/
+│   ├── class_sensitivity/
+│   ├── CRISPR/
+│   ├── cross_platform/
+│   ├── data_availability/
+│   ├── DepMap/
 │   ├── differential_expression/
+│   ├── drug_annotation/
+│   ├── evidence/
+│   ├── GSE186332/
 │   ├── GSEA/
+│   ├── hsp90_class_enrichment/
+│   ├── PRISM/
 │   ├── qc/
-│   └── recurrence/
-├── README.md
+│   ├── recurrence/
+│   └── validation/
 ├── .gitattributes
-└── .gitignore
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
